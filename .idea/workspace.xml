@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7797000a-c368-4046-a88f-4d48c62d531a" name="Changes" comment="Add Histogram model from kata 5">
-      <change afterPath="$PROJECT_DIR$/src/histogram/Flight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/histogram/FlightHistogramFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/histogram/Histogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/histogram/persistence/Loader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/histogram/persistence/files/SQLiteFlightLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/gson-2.10.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kata 7 IS2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kata 7 IS2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/olabr/OneDrive/Documents/ULPGC/fifth_semester/IS2/kata 7 IS2/lib/jfreechart-1.0.19.jar",
+    "last_opened_file_path": "C:/Users/olabr/OneDrive/Documents/ULPGC/fifth_semester/IS2/kata 7 IS2/lib/gson-2.10.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,6 +50,25 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\olabr\OneDrive\Documents\ULPGC\fifth_semester\IS2\kata 7 IS2\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="kata 7 IS2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,6 +79,7 @@
       <updated>1671010499205</updated>
       <workItem from="1671010500217" duration="1110000" />
       <workItem from="1671208902553" duration="1433000" />
+      <workItem from="1671377962904" duration="982000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1671010751038</created>
@@ -84,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671011152032</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add Histogram model from kata 5">
+      <created>1671378057541</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671378057541</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
